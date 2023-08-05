@@ -8,6 +8,7 @@ class FirstSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("test FirstSpringBootApplicationTests hello world");
 	}
 
 }
